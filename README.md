@@ -1,2 +1,4 @@
-# Smart-Gesture-Controlled-Virtual-Mouse-Hand-Eye-Recognition-
-This project introduces a virtual mouse system controlled by hand and eye gestures. It uses MediaPipe and OpenCV to track finger and facial movements in real time. The system enables touchless interaction, ideal for accessibility and contact-free environments.
+# virtualmouse
+to run my code follow the steps:
+1) download my repository as a zip folder
+2) extract that folder and run the mlproject.py file that the the main file which uses two different codes and images in it
